@@ -4,16 +4,16 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Q1. Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 -Software engineering is a branch of computer engineering that deals with design, developing, testing and maintanance of computer software.
 -Software engineering is important in the technology industry by creating applicatoions that improve quality, time efficiency, budget and also improving human lives. 
 
-Q2. Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 1. The introduction of hugh-level programming languanges in the 50's and 60's. Early computing relied on machine code and assembly. Though tedious and error-prone this paved way to building of more complex applications.
 2. Introduction of structured programming in the 60's and the 70's. It emphasized logical structure and modularity, promoting practices such as breaking down code into smaller, reusable procedures or functions. The development of languages like Pascal and Ada embodied these principles, reducing errors and improving maintainability.
 3. Adopting of agile methodologies in the 2000's. Agile methodologies like Scrum and Kanban transformed software engineering by emphasizing flexibility, teamwork, and continuous delivery, aligning development more closely with business needs and fostering innovation.
    
-Q3. List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirement analysis - In this phase, stakeholders, including clients and end-users, work with developers to define the system's requirements. 
 2. Design architecture - Based on the requirements, architects and developers create the software's overall structure. This includes both the system's high-level architecture and the detailed design of individual components. 
 3. Developement - This is the phase where developers write the actual code for the software based on the design specifications. The system is built using programming languages, frameworks, and libraries to translate the design into a functional product.
@@ -21,7 +21,7 @@ Q3. List and briefly explain the phases of the Software Development Life Cycle.
 5. Deployment -Once the software passes testing, it is deployed to the production environment. This phase involves delivering the software to the users, making it available for operational use. 
 6. Maitanance - This phase includes fixing bugs, patching security vulnerabilities, and updating the software to accommodate changes in requirements or technology.
 
-Q4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+ompare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology
 Waterfall is a traditional project management approach that follows a linear and sequential process. Here are its key characteristics:
 
@@ -51,7 +51,7 @@ When to Use Each
 Waterfall: Best for projects with well-defined requirements and low likelihood of changes, such as construction or manufacturing.
 Agile: Ideal for projects with evolving requirements and a need for flexibility, such as software development or marketing campaigns.
 
-Q5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer
   A Software Developer is primarily responsible for designing, coding, and maintaining software applications. They work closely with other developers, designers, and stakeholders to understand the requirements and deliver solutions that meet user needs. Their day-to-day tasks include writing and testing code, debugging issues, and ensuring that the software functions as intended. Additionally, they create and maintain documentation for their code and software features, which helps in future maintenance and updates. Software developers also continuously improve their skills and stay updated with new technologies and best practices to enhance the development process.
 
@@ -61,7 +61,7 @@ Q5. Describe the roles and responsibilities of a Software Developer, a Quality A
 3. Project Manager
   A Project Manager oversees the entire software development project from inception to completion. They are responsible for defining the project scope, goals, and deliverables, and creating detailed project plans and schedules. Project managers allocate resources, manage the project budget, and serve as the primary point of contact between the team and stakeholders. They provide regular updates on the project’s status and ensure that any potential risks are identified and mitigated. Additionally, project managers ensure that the project meets quality standards and is delivered on time. Their role is crucial in coordinating the overall effort and ensuring that all team members are aligned and working towards the same goals.
 
-Q6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 -IDEs streamline the software development process by integrating tools for coding, debugging, and testing in one interface. They enhance productivity with features like syntax highlighting and code completion.
 
@@ -81,7 +81,7 @@ Subversion (SVN): Centralized system, simple to use.
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
-Q7. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 -Unit Testing
 Unit Testing checks individual components or functions in isolation to ensure they work correctly.
 
@@ -97,7 +97,7 @@ Acceptance Testing determines if the software meets business requirements and is
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Q1. Define prompt engineering and discuss its importance in interacting with AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.
 -Prompt engineering involves designing and refining prompts to guide AI models in generating specific responses.
 
 Importance
@@ -106,7 +106,7 @@ User Experience: Enhances interactions by making them more intuitive.
 Control: Allows fine-tuning of AI outputs to meet specific needs.
 Bias Mitigation: Helps reduce biases in AI responses.
 
-Q2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 -Vague Prompt
 “Write about a phone.”
 
